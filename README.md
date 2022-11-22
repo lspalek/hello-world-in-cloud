@@ -18,5 +18,5 @@ GET /hello/all
 ```
 
 List of branches:
-- [AWS Elastic beanstalk](lspalek/hello-world-in-cloud/tree/aws-elastic-beanstalk)
-- [Google Cloud run](lspalek/hello-world-in-cloud/tree/GCP-Cloud-run)
+- [AWS Elastic beanstalk](_lspalek_/_hello-world-in-cloud_/tree/aws-elastic-beanstalk)
+- [Google Cloud run](_user_/_hello-world-in-cloud_/tree/GCP-Cloud-run)
